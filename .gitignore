@@ -1,0 +1,11 @@
+# Executables
+hanoi
+a.out
+*.exe
+
+# Object files
+*.o
+
+# OS generated files
+.DS_Store
+Thumbs.db
